@@ -4,8 +4,8 @@ quantos livros possuem no título, o termo que foi informado.
 
 ## 🛠 Tecnologias
 
--  HTML
--  CSS
+-  Flutter
+-  Dart
 -  GIT E GITHUB
 
 
